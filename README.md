@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-_Deployment coming soon!_ (Add live URL here when available.)
+_Deployment coming soon!_
 
 ---
 
@@ -40,7 +40,7 @@ To set up locally with XAMPP:
     - Open **phpMyAdmin**
     - Create a new database named `donatetheblood`
     - Import the `donatetheblood.sql` file included in this repository
-4. Visit [http://localhost/DONATETHEBLOOD](http://localhost/DONATETHEBLOOD) in your browser.
+4. Visit [http://localhost/DONATETHEBLOOD](http://localhost/DONATETHEBLOOD)  and [http://localhost/phpmyadmin/](http://phpmyadmin/)in your browser.
 
 ---
 
@@ -81,9 +81,7 @@ The `donatetheblood` MySQL database powers the platform with these core tables:
 ---
 
 ## ✨ Screenshots
-
-[![Website Images](Hompe Page.png)]
-
+Visit Website Images Folder 
 ---
 
 ## 🤝 Contributions
