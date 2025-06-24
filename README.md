@@ -88,6 +88,11 @@ Visit (Website Images) Folder
 
 ## 🤝 Contributions
 
+## 👥 Contributors
+
+- [DamandeepKaur](https://github.com/ImDamandeepKaur)
+- [Ishaan Samal](https://github.com/Trinity2702)
+
 Contributions are welcome!  
 Feel free to fork, star, or make pull requests to improve features or design.
 
