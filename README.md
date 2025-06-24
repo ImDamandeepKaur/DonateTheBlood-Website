@@ -81,7 +81,9 @@ The `donatetheblood` MySQL database powers the platform with these core tables:
 ---
 
 ## ✨ Screenshots
-Visit Website Images Folder 
+
+Visit (Website Images) Folder 
+
 ---
 
 ## 🤝 Contributions
