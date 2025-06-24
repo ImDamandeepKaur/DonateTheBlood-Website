@@ -82,7 +82,7 @@ The `donatetheblood` MySQL database powers the platform with these core tables:
 
 ## ✨ Screenshots
 
-[![Screenshot of project file structure](image1)](image1)
+[![Website Images](Hompe Page.png)]
 
 ---
 
